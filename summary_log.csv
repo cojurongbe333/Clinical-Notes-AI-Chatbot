@@ -1,0 +1,301 @@
+session_id,timestamp,department,note_type,note_word_count,summary_word_count,question,answer_tokens,response_latency_sec
+SID10000,2024-01-01 00:00:00,General Medicine,Discharge Summary,782,67,What is the follow-up recommendation?,14,0.79
+SID10001,2024-01-01 01:00:00,Pediatrics,Radiology Report,309,79,What is the follow-up recommendation?,17,3.39
+SID10002,2024-01-01 02:00:00,Oncology,Discharge Summary,855,111,What is the follow-up recommendation?,11,1.75
+SID10003,2024-01-01 03:00:00,Pediatrics,Discharge Summary,156,59,What medications were prescribed?,15,1.63
+SID10004,2024-01-01 04:00:00,Pediatrics,Progress Note,899,108,What medications were prescribed?,17,3.92
+SID10005,2024-01-01 05:00:00,Neurology,Discharge Summary,488,80,What is the follow-up recommendation?,12,1.2
+SID10006,2024-01-01 06:00:00,Oncology,Consult Note,814,92,What symptoms are mentioned?,18,2.93
+SID10007,2024-01-01 07:00:00,Oncology,Consult Note,644,81,What is the diagnosis?,9,3.38
+SID10008,2024-01-01 08:00:00,Oncology,Radiology Report,398,67,What is the diagnosis?,19,0.64
+SID10009,2024-01-01 09:00:00,Pediatrics,Discharge Summary,336,117,What is the diagnosis?,9,2.85
+SID10010,2024-01-01 10:00:00,General Medicine,Radiology Report,986,108,What medications were prescribed?,16,3.83
+SID10011,2024-01-01 11:00:00,Oncology,Consult Note,992,59,What medications were prescribed?,17,0.93
+SID10012,2024-01-01 12:00:00,Pediatrics,Discharge Summary,917,80,What symptoms are mentioned?,9,3.64
+SID10013,2024-01-01 13:00:00,Neurology,Discharge Summary,392,110,What is the diagnosis?,11,2.58
+SID10014,2024-01-01 14:00:00,General Medicine,Radiology Report,181,34,What is the diagnosis?,18,2.66
+SID10015,2024-01-01 15:00:00,Neurology,Consult Note,715,58,What is the follow-up recommendation?,10,2.65
+SID10016,2024-01-01 16:00:00,General Medicine,Discharge Summary,999,33,What medications were prescribed?,9,1.55
+SID10017,2024-01-01 17:00:00,Pediatrics,Radiology Report,848,39,What is the diagnosis?,5,3.77
+SID10018,2024-01-01 18:00:00,Cardiology,Consult Note,461,85,What symptoms are mentioned?,12,3.82
+SID10019,2024-01-01 19:00:00,General Medicine,Radiology Report,516,46,What symptoms are mentioned?,9,2.69
+SID10020,2024-01-01 20:00:00,Neurology,Progress Note,818,103,What is the diagnosis?,19,3.24
+SID10021,2024-01-01 21:00:00,Pediatrics,Discharge Summary,138,46,What medications were prescribed?,16,2.64
+SID10022,2024-01-01 22:00:00,General Medicine,Progress Note,296,113,What symptoms are mentioned?,5,2.2
+SID10023,2024-01-01 23:00:00,Cardiology,Consult Note,731,117,What is the follow-up recommendation?,14,2.81
+SID10024,2024-01-02 00:00:00,Cardiology,Progress Note,515,98,What symptoms are mentioned?,15,2.44
+SID10025,2024-01-02 01:00:00,Oncology,Progress Note,564,63,What is the treatment plan?,4,2.59
+SID10026,2024-01-02 02:00:00,Oncology,Consult Note,352,35,What is the treatment plan?,5,3.24
+SID10027,2024-01-02 03:00:00,Neurology,Radiology Report,195,82,What medications were prescribed?,7,2.18
+SID10028,2024-01-02 04:00:00,General Medicine,Progress Note,384,95,What is the diagnosis?,13,0.64
+SID10029,2024-01-02 05:00:00,General Medicine,Radiology Report,574,106,What medications were prescribed?,10,1.07
+SID10030,2024-01-02 06:00:00,Oncology,Progress Note,915,72,What medications were prescribed?,14,2.04
+SID10031,2024-01-02 07:00:00,General Medicine,Radiology Report,837,104,What medications were prescribed?,9,3.04
+SID10032,2024-01-02 08:00:00,General Medicine,Consult Note,854,52,What medications were prescribed?,17,2.58
+SID10033,2024-01-02 09:00:00,Cardiology,Progress Note,503,84,What is the follow-up recommendation?,19,2.78
+SID10034,2024-01-02 10:00:00,Oncology,Consult Note,683,109,What is the follow-up recommendation?,6,2.18
+SID10035,2024-01-02 11:00:00,Pediatrics,Progress Note,970,104,What symptoms are mentioned?,15,2.66
+SID10036,2024-01-02 12:00:00,Oncology,Consult Note,625,45,What is the treatment plan?,3,1.65
+SID10037,2024-01-02 13:00:00,Pediatrics,Consult Note,486,37,What medications were prescribed?,18,2.15
+SID10038,2024-01-02 14:00:00,Cardiology,Progress Note,263,33,What symptoms are mentioned?,15,3.1
+SID10039,2024-01-02 15:00:00,Neurology,Progress Note,188,33,What is the treatment plan?,12,3.55
+SID10040,2024-01-02 16:00:00,General Medicine,Progress Note,218,85,What is the diagnosis?,14,2.02
+SID10041,2024-01-02 17:00:00,Cardiology,Discharge Summary,515,54,What is the follow-up recommendation?,4,0.65
+SID10042,2024-01-02 18:00:00,General Medicine,Radiology Report,144,96,What is the treatment plan?,5,1.07
+SID10043,2024-01-02 19:00:00,Neurology,Discharge Summary,588,96,What is the diagnosis?,12,0.57
+SID10044,2024-01-02 20:00:00,Neurology,Discharge Summary,603,56,What is the treatment plan?,4,2.79
+SID10045,2024-01-02 21:00:00,Cardiology,Consult Note,684,61,What is the follow-up recommendation?,15,1.66
+SID10046,2024-01-02 22:00:00,Neurology,Progress Note,270,79,What is the follow-up recommendation?,15,2.4
+SID10047,2024-01-02 23:00:00,Pediatrics,Radiology Report,263,90,What symptoms are mentioned?,5,2.23
+SID10048,2024-01-03 00:00:00,Neurology,Consult Note,688,80,What medications were prescribed?,9,0.79
+SID10049,2024-01-03 01:00:00,General Medicine,Discharge Summary,158,48,What is the treatment plan?,16,1.91
+SID10050,2024-01-03 02:00:00,General Medicine,Progress Note,228,50,What is the treatment plan?,19,1.27
+SID10051,2024-01-03 03:00:00,General Medicine,Consult Note,812,34,What is the diagnosis?,14,1.96
+SID10052,2024-01-03 04:00:00,General Medicine,Progress Note,161,111,What is the follow-up recommendation?,18,1.21
+SID10053,2024-01-03 05:00:00,Pediatrics,Consult Note,305,71,What is the treatment plan?,14,3.44
+SID10054,2024-01-03 06:00:00,Oncology,Progress Note,517,90,What is the follow-up recommendation?,17,1.11
+SID10055,2024-01-03 07:00:00,Cardiology,Discharge Summary,342,51,What is the treatment plan?,12,3.86
+SID10056,2024-01-03 08:00:00,General Medicine,Radiology Report,753,50,What symptoms are mentioned?,9,1.96
+SID10057,2024-01-03 09:00:00,Neurology,Discharge Summary,252,99,What medications were prescribed?,7,3.46
+SID10058,2024-01-03 10:00:00,General Medicine,Radiology Report,282,30,What is the treatment plan?,3,2.7
+SID10059,2024-01-03 11:00:00,Neurology,Progress Note,334,34,What is the follow-up recommendation?,19,3.07
+SID10060,2024-01-03 12:00:00,Neurology,Consult Note,852,41,What symptoms are mentioned?,5,3.19
+SID10061,2024-01-03 13:00:00,General Medicine,Discharge Summary,354,119,What is the treatment plan?,15,2.27
+SID10062,2024-01-03 14:00:00,Pediatrics,Radiology Report,962,75,What is the diagnosis?,16,2.4
+SID10063,2024-01-03 15:00:00,Neurology,Discharge Summary,777,63,What medications were prescribed?,6,2.3
+SID10064,2024-01-03 16:00:00,Neurology,Radiology Report,870,78,What is the treatment plan?,7,2.56
+SID10065,2024-01-03 17:00:00,General Medicine,Discharge Summary,707,107,What symptoms are mentioned?,18,0.6
+SID10066,2024-01-03 18:00:00,Neurology,Radiology Report,128,119,What is the diagnosis?,3,1.88
+SID10067,2024-01-03 19:00:00,Neurology,Radiology Report,193,74,What symptoms are mentioned?,16,2.62
+SID10068,2024-01-03 20:00:00,General Medicine,Progress Note,611,56,What symptoms are mentioned?,17,2.59
+SID10069,2024-01-03 21:00:00,General Medicine,Radiology Report,372,102,What is the diagnosis?,11,3.28
+SID10070,2024-01-03 22:00:00,Cardiology,Progress Note,349,55,What symptoms are mentioned?,17,2.79
+SID10071,2024-01-03 23:00:00,Pediatrics,Radiology Report,638,76,What is the diagnosis?,19,3.97
+SID10072,2024-01-04 00:00:00,Pediatrics,Consult Note,293,115,What is the treatment plan?,6,1.49
+SID10073,2024-01-04 01:00:00,Neurology,Consult Note,772,85,What is the diagnosis?,14,1.76
+SID10074,2024-01-04 02:00:00,Pediatrics,Consult Note,287,92,What is the diagnosis?,7,1.84
+SID10075,2024-01-04 03:00:00,Neurology,Radiology Report,289,77,What medications were prescribed?,7,2.13
+SID10076,2024-01-04 04:00:00,Cardiology,Progress Note,512,90,What is the diagnosis?,13,3.43
+SID10077,2024-01-04 05:00:00,General Medicine,Progress Note,914,110,What is the diagnosis?,8,1.33
+SID10078,2024-01-04 06:00:00,General Medicine,Radiology Report,753,55,What is the treatment plan?,9,3.22
+SID10079,2024-01-04 07:00:00,General Medicine,Consult Note,313,65,What medications were prescribed?,16,1.92
+SID10080,2024-01-04 08:00:00,Pediatrics,Consult Note,636,30,What is the follow-up recommendation?,13,2.61
+SID10081,2024-01-04 09:00:00,Cardiology,Progress Note,148,37,What is the treatment plan?,15,2.71
+SID10082,2024-01-04 10:00:00,Pediatrics,Consult Note,284,81,What is the treatment plan?,4,1.8
+SID10083,2024-01-04 11:00:00,Pediatrics,Discharge Summary,541,108,What is the follow-up recommendation?,9,2.29
+SID10084,2024-01-04 12:00:00,Cardiology,Progress Note,458,76,What is the diagnosis?,6,1.95
+SID10085,2024-01-04 13:00:00,Cardiology,Consult Note,767,85,What symptoms are mentioned?,10,0.74
+SID10086,2024-01-04 14:00:00,Cardiology,Progress Note,615,115,What medications were prescribed?,15,2.03
+SID10087,2024-01-04 15:00:00,Cardiology,Discharge Summary,484,43,What symptoms are mentioned?,16,0.84
+SID10088,2024-01-04 16:00:00,General Medicine,Progress Note,952,119,What is the follow-up recommendation?,12,1.92
+SID10089,2024-01-04 17:00:00,Oncology,Progress Note,461,57,What is the treatment plan?,13,2.58
+SID10090,2024-01-04 18:00:00,Oncology,Progress Note,619,116,What is the treatment plan?,4,2.53
+SID10091,2024-01-04 19:00:00,Cardiology,Progress Note,776,107,What medications were prescribed?,11,2.82
+SID10092,2024-01-04 20:00:00,Oncology,Discharge Summary,630,117,What is the treatment plan?,19,0.83
+SID10093,2024-01-04 21:00:00,Oncology,Radiology Report,446,31,What is the treatment plan?,5,2.78
+SID10094,2024-01-04 22:00:00,Cardiology,Progress Note,336,55,What medications were prescribed?,8,1.59
+SID10095,2024-01-04 23:00:00,Oncology,Progress Note,420,43,What medications were prescribed?,7,1.9
+SID10096,2024-01-05 00:00:00,Pediatrics,Consult Note,251,88,What is the follow-up recommendation?,7,3.5
+SID10097,2024-01-05 01:00:00,Neurology,Progress Note,923,85,What is the treatment plan?,17,0.53
+SID10098,2024-01-05 02:00:00,Neurology,Consult Note,189,36,What is the treatment plan?,19,2.56
+SID10099,2024-01-05 03:00:00,Cardiology,Radiology Report,371,32,What is the follow-up recommendation?,11,2.6
+SID10100,2024-01-05 04:00:00,General Medicine,Discharge Summary,534,52,What is the diagnosis?,5,1.89
+SID10101,2024-01-05 05:00:00,Cardiology,Discharge Summary,906,47,What is the diagnosis?,19,1.33
+SID10102,2024-01-05 06:00:00,General Medicine,Radiology Report,564,67,What is the diagnosis?,12,1.32
+SID10103,2024-01-05 07:00:00,Neurology,Discharge Summary,995,44,What is the follow-up recommendation?,5,3.59
+SID10104,2024-01-05 08:00:00,Cardiology,Radiology Report,301,93,What is the treatment plan?,19,2.05
+SID10105,2024-01-05 09:00:00,Pediatrics,Radiology Report,286,118,What is the follow-up recommendation?,5,1.66
+SID10106,2024-01-05 10:00:00,Oncology,Radiology Report,210,57,What is the follow-up recommendation?,5,2.07
+SID10107,2024-01-05 11:00:00,General Medicine,Discharge Summary,833,103,What is the diagnosis?,8,2.84
+SID10108,2024-01-05 12:00:00,Oncology,Consult Note,977,68,What symptoms are mentioned?,15,1.01
+SID10109,2024-01-05 13:00:00,Oncology,Radiology Report,650,86,What is the treatment plan?,17,2.07
+SID10110,2024-01-05 14:00:00,Cardiology,Progress Note,158,46,What is the diagnosis?,11,2.56
+SID10111,2024-01-05 15:00:00,Oncology,Discharge Summary,245,115,What symptoms are mentioned?,6,3.82
+SID10112,2024-01-05 16:00:00,Pediatrics,Radiology Report,570,119,What symptoms are mentioned?,16,1.38
+SID10113,2024-01-05 17:00:00,Oncology,Radiology Report,292,73,What medications were prescribed?,7,1.76
+SID10114,2024-01-05 18:00:00,Cardiology,Progress Note,772,54,What is the treatment plan?,4,1.83
+SID10115,2024-01-05 19:00:00,Pediatrics,Consult Note,873,46,What symptoms are mentioned?,13,2.62
+SID10116,2024-01-05 20:00:00,Neurology,Consult Note,339,42,What is the diagnosis?,11,1.75
+SID10117,2024-01-05 21:00:00,Oncology,Consult Note,757,113,What medications were prescribed?,5,2.37
+SID10118,2024-01-05 22:00:00,Cardiology,Radiology Report,177,54,What is the treatment plan?,11,3.24
+SID10119,2024-01-05 23:00:00,Neurology,Radiology Report,779,97,What is the follow-up recommendation?,5,2.97
+SID10120,2024-01-06 00:00:00,Neurology,Radiology Report,595,39,What is the diagnosis?,4,2.06
+SID10121,2024-01-06 01:00:00,General Medicine,Discharge Summary,575,96,What symptoms are mentioned?,14,3.52
+SID10122,2024-01-06 02:00:00,Pediatrics,Progress Note,948,47,What symptoms are mentioned?,12,2.45
+SID10123,2024-01-06 03:00:00,Oncology,Radiology Report,480,115,What is the diagnosis?,11,2.39
+SID10124,2024-01-06 04:00:00,Cardiology,Progress Note,120,63,What symptoms are mentioned?,17,0.62
+SID10125,2024-01-06 05:00:00,General Medicine,Progress Note,506,37,What medications were prescribed?,10,3.95
+SID10126,2024-01-06 06:00:00,Pediatrics,Consult Note,467,69,What is the treatment plan?,7,0.93
+SID10127,2024-01-06 07:00:00,General Medicine,Discharge Summary,309,112,What medications were prescribed?,13,1.31
+SID10128,2024-01-06 08:00:00,Pediatrics,Radiology Report,624,71,What symptoms are mentioned?,4,0.68
+SID10129,2024-01-06 09:00:00,Pediatrics,Consult Note,310,70,What is the follow-up recommendation?,17,2.74
+SID10130,2024-01-06 10:00:00,Oncology,Consult Note,627,35,What is the treatment plan?,8,1.29
+SID10131,2024-01-06 11:00:00,Pediatrics,Radiology Report,488,81,What is the treatment plan?,10,1.13
+SID10132,2024-01-06 12:00:00,General Medicine,Progress Note,528,55,What is the diagnosis?,7,0.81
+SID10133,2024-01-06 13:00:00,Pediatrics,Consult Note,943,93,What is the diagnosis?,18,0.86
+SID10134,2024-01-06 14:00:00,Oncology,Progress Note,236,88,What is the follow-up recommendation?,8,2.55
+SID10135,2024-01-06 15:00:00,Oncology,Discharge Summary,253,85,What is the treatment plan?,7,2.91
+SID10136,2024-01-06 16:00:00,General Medicine,Progress Note,177,88,What is the follow-up recommendation?,18,1.89
+SID10137,2024-01-06 17:00:00,Neurology,Discharge Summary,675,99,What is the diagnosis?,15,2.18
+SID10138,2024-01-06 18:00:00,Neurology,Progress Note,804,62,What is the diagnosis?,7,2.9
+SID10139,2024-01-06 19:00:00,Pediatrics,Consult Note,791,82,What is the treatment plan?,15,0.56
+SID10140,2024-01-06 20:00:00,Cardiology,Consult Note,292,51,What medications were prescribed?,19,1.63
+SID10141,2024-01-06 21:00:00,Pediatrics,Discharge Summary,948,50,What symptoms are mentioned?,10,3.91
+SID10142,2024-01-06 22:00:00,General Medicine,Radiology Report,934,99,What is the diagnosis?,15,2.53
+SID10143,2024-01-06 23:00:00,General Medicine,Discharge Summary,268,99,What is the diagnosis?,5,1.39
+SID10144,2024-01-07 00:00:00,General Medicine,Discharge Summary,199,33,What medications were prescribed?,10,2.33
+SID10145,2024-01-07 01:00:00,General Medicine,Progress Note,332,104,What medications were prescribed?,4,1.7
+SID10146,2024-01-07 02:00:00,General Medicine,Progress Note,322,91,What is the follow-up recommendation?,10,2.36
+SID10147,2024-01-07 03:00:00,Oncology,Discharge Summary,883,91,What is the follow-up recommendation?,15,0.94
+SID10148,2024-01-07 04:00:00,Neurology,Consult Note,348,53,What symptoms are mentioned?,15,0.96
+SID10149,2024-01-07 05:00:00,General Medicine,Progress Note,795,84,What symptoms are mentioned?,3,1.0
+SID10150,2024-01-07 06:00:00,Cardiology,Radiology Report,346,38,What is the treatment plan?,8,3.79
+SID10151,2024-01-07 07:00:00,Cardiology,Progress Note,778,32,What is the follow-up recommendation?,18,3.07
+SID10152,2024-01-07 08:00:00,Cardiology,Progress Note,651,60,What is the diagnosis?,10,1.07
+SID10153,2024-01-07 09:00:00,Cardiology,Radiology Report,560,69,What is the follow-up recommendation?,3,1.16
+SID10154,2024-01-07 10:00:00,Oncology,Discharge Summary,521,65,What is the diagnosis?,18,3.06
+SID10155,2024-01-07 11:00:00,Cardiology,Radiology Report,166,53,What medications were prescribed?,11,1.05
+SID10156,2024-01-07 12:00:00,General Medicine,Discharge Summary,352,35,What is the follow-up recommendation?,15,1.32
+SID10157,2024-01-07 13:00:00,Pediatrics,Discharge Summary,424,95,What medications were prescribed?,13,3.87
+SID10158,2024-01-07 14:00:00,Cardiology,Discharge Summary,645,113,What symptoms are mentioned?,15,1.39
+SID10159,2024-01-07 15:00:00,Oncology,Radiology Report,262,104,What symptoms are mentioned?,12,2.82
+SID10160,2024-01-07 16:00:00,Oncology,Discharge Summary,534,33,What is the treatment plan?,6,3.93
+SID10161,2024-01-07 17:00:00,Cardiology,Consult Note,632,108,What is the follow-up recommendation?,8,1.81
+SID10162,2024-01-07 18:00:00,Pediatrics,Radiology Report,492,35,What medications were prescribed?,9,0.56
+SID10163,2024-01-07 19:00:00,Cardiology,Consult Note,685,80,What is the diagnosis?,7,1.35
+SID10164,2024-01-07 20:00:00,Oncology,Discharge Summary,378,91,What symptoms are mentioned?,13,3.41
+SID10165,2024-01-07 21:00:00,Neurology,Progress Note,775,86,What symptoms are mentioned?,15,3.53
+SID10166,2024-01-07 22:00:00,General Medicine,Discharge Summary,590,95,What is the diagnosis?,12,3.19
+SID10167,2024-01-07 23:00:00,Oncology,Consult Note,131,108,What medications were prescribed?,12,0.9
+SID10168,2024-01-08 00:00:00,Cardiology,Consult Note,449,104,What medications were prescribed?,13,3.28
+SID10169,2024-01-08 01:00:00,General Medicine,Radiology Report,855,37,What is the follow-up recommendation?,9,3.72
+SID10170,2024-01-08 02:00:00,Cardiology,Progress Note,903,55,What is the follow-up recommendation?,6,2.6
+SID10171,2024-01-08 03:00:00,Cardiology,Radiology Report,477,80,What is the treatment plan?,4,3.79
+SID10172,2024-01-08 04:00:00,Neurology,Consult Note,527,74,What symptoms are mentioned?,16,3.39
+SID10173,2024-01-08 05:00:00,General Medicine,Discharge Summary,787,73,What is the follow-up recommendation?,15,2.83
+SID10174,2024-01-08 06:00:00,General Medicine,Progress Note,492,34,What medications were prescribed?,14,2.52
+SID10175,2024-01-08 07:00:00,Neurology,Discharge Summary,127,99,What is the diagnosis?,9,1.72
+SID10176,2024-01-08 08:00:00,Oncology,Discharge Summary,241,55,What medications were prescribed?,4,1.06
+SID10177,2024-01-08 09:00:00,Cardiology,Progress Note,467,97,What symptoms are mentioned?,15,2.62
+SID10178,2024-01-08 10:00:00,Pediatrics,Radiology Report,795,48,What medications were prescribed?,16,1.61
+SID10179,2024-01-08 11:00:00,Cardiology,Discharge Summary,209,113,What is the treatment plan?,19,3.53
+SID10180,2024-01-08 12:00:00,Cardiology,Consult Note,767,49,What symptoms are mentioned?,11,3.98
+SID10181,2024-01-08 13:00:00,Oncology,Discharge Summary,817,41,What is the diagnosis?,19,3.13
+SID10182,2024-01-08 14:00:00,Cardiology,Progress Note,435,76,What is the treatment plan?,10,0.82
+SID10183,2024-01-08 15:00:00,Neurology,Progress Note,297,30,What symptoms are mentioned?,4,1.51
+SID10184,2024-01-08 16:00:00,Neurology,Progress Note,659,119,What is the diagnosis?,15,0.88
+SID10185,2024-01-08 17:00:00,General Medicine,Radiology Report,851,43,What is the treatment plan?,5,2.78
+SID10186,2024-01-08 18:00:00,Pediatrics,Discharge Summary,988,93,What is the treatment plan?,18,3.18
+SID10187,2024-01-08 19:00:00,Cardiology,Radiology Report,160,67,What symptoms are mentioned?,8,3.74
+SID10188,2024-01-08 20:00:00,Cardiology,Radiology Report,859,66,What is the follow-up recommendation?,9,2.03
+SID10189,2024-01-08 21:00:00,Oncology,Progress Note,823,40,What is the treatment plan?,12,3.65
+SID10190,2024-01-08 22:00:00,Neurology,Progress Note,621,106,What is the treatment plan?,11,3.57
+SID10191,2024-01-08 23:00:00,Pediatrics,Radiology Report,264,32,What is the diagnosis?,4,1.61
+SID10192,2024-01-09 00:00:00,General Medicine,Discharge Summary,320,62,What medications were prescribed?,17,3.54
+SID10193,2024-01-09 01:00:00,Neurology,Consult Note,843,35,What symptoms are mentioned?,7,1.81
+SID10194,2024-01-09 02:00:00,General Medicine,Radiology Report,580,79,What symptoms are mentioned?,6,1.54
+SID10195,2024-01-09 03:00:00,Oncology,Discharge Summary,851,39,What is the follow-up recommendation?,6,2.77
+SID10196,2024-01-09 04:00:00,Oncology,Progress Note,871,34,What is the follow-up recommendation?,6,1.65
+SID10197,2024-01-09 05:00:00,Cardiology,Progress Note,677,52,What symptoms are mentioned?,19,2.71
+SID10198,2024-01-09 06:00:00,Pediatrics,Discharge Summary,666,39,What is the follow-up recommendation?,14,2.63
+SID10199,2024-01-09 07:00:00,General Medicine,Consult Note,372,73,What is the diagnosis?,19,2.47
+SID10200,2024-01-09 08:00:00,Neurology,Progress Note,509,31,What symptoms are mentioned?,12,1.83
+SID10201,2024-01-09 09:00:00,Oncology,Progress Note,713,42,What is the follow-up recommendation?,3,2.42
+SID10202,2024-01-09 10:00:00,Cardiology,Progress Note,375,69,What symptoms are mentioned?,16,2.59
+SID10203,2024-01-09 11:00:00,Cardiology,Discharge Summary,828,31,What medications were prescribed?,17,2.41
+SID10204,2024-01-09 12:00:00,General Medicine,Radiology Report,934,113,What is the treatment plan?,14,2.06
+SID10205,2024-01-09 13:00:00,Oncology,Progress Note,569,94,What symptoms are mentioned?,6,0.55
+SID10206,2024-01-09 14:00:00,Pediatrics,Radiology Report,129,92,What is the treatment plan?,5,2.55
+SID10207,2024-01-09 15:00:00,Oncology,Consult Note,943,102,What is the follow-up recommendation?,14,1.09
+SID10208,2024-01-09 16:00:00,General Medicine,Progress Note,917,46,What is the treatment plan?,9,2.75
+SID10209,2024-01-09 17:00:00,General Medicine,Progress Note,361,38,What symptoms are mentioned?,13,3.16
+SID10210,2024-01-09 18:00:00,Oncology,Consult Note,370,104,What medications were prescribed?,3,2.25
+SID10211,2024-01-09 19:00:00,General Medicine,Progress Note,996,44,What is the follow-up recommendation?,8,2.4
+SID10212,2024-01-09 20:00:00,Oncology,Radiology Report,124,53,What symptoms are mentioned?,17,3.83
+SID10213,2024-01-09 21:00:00,Neurology,Discharge Summary,238,67,What is the follow-up recommendation?,17,3.47
+SID10214,2024-01-09 22:00:00,Oncology,Radiology Report,920,64,What is the diagnosis?,13,3.7
+SID10215,2024-01-09 23:00:00,Oncology,Discharge Summary,493,78,What is the treatment plan?,4,3.35
+SID10216,2024-01-10 00:00:00,General Medicine,Discharge Summary,184,98,What is the diagnosis?,16,0.88
+SID10217,2024-01-10 01:00:00,General Medicine,Radiology Report,265,91,What symptoms are mentioned?,4,1.02
+SID10218,2024-01-10 02:00:00,Cardiology,Radiology Report,343,89,What medications were prescribed?,6,2.34
+SID10219,2024-01-10 03:00:00,Cardiology,Radiology Report,358,79,What is the follow-up recommendation?,19,1.36
+SID10220,2024-01-10 04:00:00,Neurology,Radiology Report,296,107,What is the treatment plan?,5,2.17
+SID10221,2024-01-10 05:00:00,Cardiology,Consult Note,898,104,What is the follow-up recommendation?,15,1.88
+SID10222,2024-01-10 06:00:00,Oncology,Progress Note,972,38,What symptoms are mentioned?,11,2.42
+SID10223,2024-01-10 07:00:00,General Medicine,Discharge Summary,401,63,What is the follow-up recommendation?,9,3.11
+SID10224,2024-01-10 08:00:00,Cardiology,Radiology Report,182,105,What is the treatment plan?,17,3.0
+SID10225,2024-01-10 09:00:00,Cardiology,Radiology Report,336,64,What symptoms are mentioned?,13,2.32
+SID10226,2024-01-10 10:00:00,Neurology,Radiology Report,973,30,What is the follow-up recommendation?,4,3.38
+SID10227,2024-01-10 11:00:00,Neurology,Consult Note,946,69,What medications were prescribed?,17,2.01
+SID10228,2024-01-10 12:00:00,Oncology,Radiology Report,914,93,What symptoms are mentioned?,16,3.64
+SID10229,2024-01-10 13:00:00,General Medicine,Radiology Report,808,51,What symptoms are mentioned?,13,0.75
+SID10230,2024-01-10 14:00:00,Neurology,Radiology Report,580,89,What medications were prescribed?,5,3.84
+SID10231,2024-01-10 15:00:00,Cardiology,Progress Note,729,93,What is the diagnosis?,19,2.79
+SID10232,2024-01-10 16:00:00,General Medicine,Consult Note,224,101,What is the treatment plan?,14,1.83
+SID10233,2024-01-10 17:00:00,General Medicine,Radiology Report,218,40,What is the diagnosis?,17,1.19
+SID10234,2024-01-10 18:00:00,Cardiology,Discharge Summary,630,43,What is the follow-up recommendation?,18,2.18
+SID10235,2024-01-10 19:00:00,Neurology,Discharge Summary,504,89,What medications were prescribed?,7,1.18
+SID10236,2024-01-10 20:00:00,Cardiology,Discharge Summary,524,59,What is the diagnosis?,8,1.08
+SID10237,2024-01-10 21:00:00,General Medicine,Consult Note,942,64,What symptoms are mentioned?,7,2.66
+SID10238,2024-01-10 22:00:00,Pediatrics,Consult Note,637,114,What is the follow-up recommendation?,5,2.33
+SID10239,2024-01-10 23:00:00,Pediatrics,Discharge Summary,595,66,What is the follow-up recommendation?,3,2.85
+SID10240,2024-01-11 00:00:00,Oncology,Radiology Report,828,34,What is the diagnosis?,8,3.75
+SID10241,2024-01-11 01:00:00,Cardiology,Consult Note,982,112,What is the diagnosis?,17,2.36
+SID10242,2024-01-11 02:00:00,Cardiology,Discharge Summary,764,107,What medications were prescribed?,4,2.53
+SID10243,2024-01-11 03:00:00,Oncology,Discharge Summary,989,55,What is the treatment plan?,5,0.81
+SID10244,2024-01-11 04:00:00,Oncology,Radiology Report,890,91,What is the diagnosis?,19,3.01
+SID10245,2024-01-11 05:00:00,Oncology,Progress Note,556,33,What is the diagnosis?,14,1.9
+SID10246,2024-01-11 06:00:00,General Medicine,Consult Note,142,118,What symptoms are mentioned?,17,3.92
+SID10247,2024-01-11 07:00:00,Cardiology,Radiology Report,684,71,What is the follow-up recommendation?,14,3.38
+SID10248,2024-01-11 08:00:00,General Medicine,Discharge Summary,796,118,What is the treatment plan?,18,2.33
+SID10249,2024-01-11 09:00:00,Oncology,Discharge Summary,833,47,What symptoms are mentioned?,10,0.93
+SID10250,2024-01-11 10:00:00,Cardiology,Radiology Report,577,69,What medications were prescribed?,16,3.51
+SID10251,2024-01-11 11:00:00,General Medicine,Consult Note,202,101,What medications were prescribed?,19,3.3
+SID10252,2024-01-11 12:00:00,General Medicine,Progress Note,264,68,What is the diagnosis?,10,1.15
+SID10253,2024-01-11 13:00:00,Oncology,Progress Note,204,43,What is the diagnosis?,17,1.53
+SID10254,2024-01-11 14:00:00,Cardiology,Discharge Summary,197,61,What medications were prescribed?,16,3.28
+SID10255,2024-01-11 15:00:00,Oncology,Consult Note,576,80,What is the diagnosis?,9,1.15
+SID10256,2024-01-11 16:00:00,Cardiology,Progress Note,997,67,What is the treatment plan?,5,3.71
+SID10257,2024-01-11 17:00:00,Pediatrics,Consult Note,120,52,What is the diagnosis?,14,1.99
+SID10258,2024-01-11 18:00:00,Neurology,Consult Note,170,92,What is the follow-up recommendation?,5,0.8
+SID10259,2024-01-11 19:00:00,Neurology,Discharge Summary,804,44,What is the diagnosis?,16,3.36
+SID10260,2024-01-11 20:00:00,Neurology,Progress Note,836,54,What symptoms are mentioned?,17,1.81
+SID10261,2024-01-11 21:00:00,Oncology,Radiology Report,891,46,What is the treatment plan?,16,2.34
+SID10262,2024-01-11 22:00:00,Pediatrics,Discharge Summary,565,95,What symptoms are mentioned?,9,0.89
+SID10263,2024-01-11 23:00:00,Cardiology,Progress Note,568,107,What symptoms are mentioned?,19,0.51
+SID10264,2024-01-12 00:00:00,General Medicine,Progress Note,607,82,What is the follow-up recommendation?,14,2.73
+SID10265,2024-01-12 01:00:00,Cardiology,Progress Note,919,80,What is the treatment plan?,6,2.3
+SID10266,2024-01-12 02:00:00,General Medicine,Progress Note,153,68,What is the treatment plan?,11,2.58
+SID10267,2024-01-12 03:00:00,Cardiology,Progress Note,467,80,What is the treatment plan?,8,3.28
+SID10268,2024-01-12 04:00:00,Pediatrics,Consult Note,214,99,What is the treatment plan?,18,2.76
+SID10269,2024-01-12 05:00:00,General Medicine,Discharge Summary,191,35,What is the treatment plan?,4,1.11
+SID10270,2024-01-12 06:00:00,Oncology,Consult Note,670,96,What is the follow-up recommendation?,10,1.76
+SID10271,2024-01-12 07:00:00,Cardiology,Radiology Report,273,36,What is the diagnosis?,13,3.67
+SID10272,2024-01-12 08:00:00,Cardiology,Progress Note,369,80,What symptoms are mentioned?,15,3.19
+SID10273,2024-01-12 09:00:00,General Medicine,Discharge Summary,793,101,What is the treatment plan?,19,2.45
+SID10274,2024-01-12 10:00:00,Oncology,Progress Note,557,71,What is the diagnosis?,10,1.39
+SID10275,2024-01-12 11:00:00,Oncology,Discharge Summary,237,93,What is the diagnosis?,16,1.56
+SID10276,2024-01-12 12:00:00,Pediatrics,Consult Note,890,44,What symptoms are mentioned?,17,3.06
+SID10277,2024-01-12 13:00:00,Oncology,Discharge Summary,425,58,What is the follow-up recommendation?,8,3.48
+SID10278,2024-01-12 14:00:00,Oncology,Radiology Report,387,62,What medications were prescribed?,13,2.85
+SID10279,2024-01-12 15:00:00,Oncology,Radiology Report,173,56,What medications were prescribed?,15,3.33
+SID10280,2024-01-12 16:00:00,Neurology,Discharge Summary,355,65,What is the diagnosis?,3,3.18
+SID10281,2024-01-12 17:00:00,Pediatrics,Discharge Summary,508,58,What symptoms are mentioned?,8,1.02
+SID10282,2024-01-12 18:00:00,Cardiology,Discharge Summary,853,67,What medications were prescribed?,11,1.98
+SID10283,2024-01-12 19:00:00,General Medicine,Discharge Summary,882,86,What is the diagnosis?,10,1.04
+SID10284,2024-01-12 20:00:00,Cardiology,Radiology Report,944,56,What is the follow-up recommendation?,13,1.32
+SID10285,2024-01-12 21:00:00,Pediatrics,Progress Note,520,84,What medications were prescribed?,11,3.54
+SID10286,2024-01-12 22:00:00,General Medicine,Discharge Summary,743,62,What is the diagnosis?,19,2.16
+SID10287,2024-01-12 23:00:00,Pediatrics,Discharge Summary,886,97,What is the diagnosis?,14,2.37
+SID10288,2024-01-13 00:00:00,Oncology,Radiology Report,422,115,What is the treatment plan?,16,1.12
+SID10289,2024-01-13 01:00:00,General Medicine,Radiology Report,326,95,What is the follow-up recommendation?,17,1.59
+SID10290,2024-01-13 02:00:00,Oncology,Consult Note,348,39,What is the treatment plan?,18,1.31
+SID10291,2024-01-13 03:00:00,Cardiology,Discharge Summary,972,34,What symptoms are mentioned?,3,1.22
+SID10292,2024-01-13 04:00:00,Cardiology,Consult Note,697,103,What is the treatment plan?,12,2.73
+SID10293,2024-01-13 05:00:00,General Medicine,Radiology Report,194,67,What is the treatment plan?,10,1.4
+SID10294,2024-01-13 06:00:00,General Medicine,Radiology Report,554,42,What medications were prescribed?,3,2.71
+SID10295,2024-01-13 07:00:00,Pediatrics,Progress Note,222,60,What is the diagnosis?,4,0.7
+SID10296,2024-01-13 08:00:00,Pediatrics,Discharge Summary,541,76,What is the follow-up recommendation?,3,1.0
+SID10297,2024-01-13 09:00:00,Oncology,Consult Note,823,117,What is the treatment plan?,3,1.46
+SID10298,2024-01-13 10:00:00,General Medicine,Radiology Report,883,81,What is the follow-up recommendation?,11,2.59
+SID10299,2024-01-13 11:00:00,Cardiology,Radiology Report,857,85,What is the treatment plan?,15,2.87
